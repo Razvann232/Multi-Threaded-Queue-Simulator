@@ -29,4 +29,4 @@ The console will display the simplified simulation in real-time. ***The more imp
 
 At each time the console will display the first client in the queue, with the (ID, Arr, Serv) format. 
 
-***Additional details about the implementation can be found in the documentation in the DocAndLog directory***
+***Additional details about the implementation can be found in the documentation in the DocAndLog directory.***
